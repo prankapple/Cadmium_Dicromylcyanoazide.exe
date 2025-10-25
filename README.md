@@ -1,2 +1,10 @@
-# Cadmium_Dicromylcyanoazide.py
-A new GDI virus with bytebeat and BSOD
+# Cadmium Dicromylcyanoazide.exe
+
+Cadmium Dicromylcyanoazide.exe is a virus i made in python that has some cool GDI effects, a bytebeat and a BSOD at the end.
+> [!CAUTION]
+> **I AM NOT RESPONSIBLE FOR ANY DAMAGES MADE BY THIS SOFTWARE, NOT FOR PEOPLE THAT SUFFER FROM EPILEPSY AND DISTURBING NOISES**
+> 
+> **USE AT YOUR OWN RISK**
+
+## Executables
+- Cadmium Dicromylcyanoazide.exe - GDI effets, bytebeat and BSOD
